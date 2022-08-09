@@ -3,7 +3,9 @@
 
 
 Languages & Tools im using:
-<img src="https://i.ibb.co/Fh765MP/html5.png" width='100'>
+<div>
+  <img src="https://i.ibb.co/Fh765MP/html5.png" width='50'>
+</div>
 
 
 
