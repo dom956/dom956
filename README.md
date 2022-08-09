@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ShahafRSeza/shahafrseza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img src="https://camo.githubusercontent.com/e7d8aacadbb0cd1caca450b770412c0cb6641a15eff8277f81705366f68e8031/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e6f796169323734266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="shahafrseza" data-canonical-src="https://komarev.com/ghpvc/?username=shahafrseza&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahafrseza&layout=compact"/>
