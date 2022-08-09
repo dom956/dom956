@@ -1,5 +1,5 @@
-## Hi there 👋
-my name is Shahaf Seza and I'm a Full-Stack Web Development student at HackerU college
+## :wave:	 Hi, I'm Shahaf Seza 
+**I'm a Full-Stack Web Development student at HackerU college**
 
 ### Languages & Tools im using:
 <div>
@@ -19,7 +19,7 @@ my name is Shahaf Seza and I'm a Full-Stack Web Development student at HackerU c
 
 ### Connect with me 
 
-<div style="margin: 20px">
+<div>
 <a href="https://www.linkedin.com/in/shahafseza/" target="_blank">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
 </a>
