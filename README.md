@@ -14,6 +14,7 @@ Languages & Tools im using:
   <img src="https://i.ibb.co/yS4F2Vc/Mongo.png" width='50'>
   <img src="https://i.ibb.co/98HbrYy/sql.png" width='50'>
   <img src="https://i.ibb.co/wQY24zN/typescript.png" width='50'>
+  <img src="https://i.ibb.co/h1Yx5Nn/angular.png" width='50'>
   <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'>
 </div>
 
