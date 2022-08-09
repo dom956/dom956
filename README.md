@@ -1,6 +1,6 @@
 ## :wave:	 Hi, I'm Shahaf Seza 
 **I'm a Full-Stack Web Development student at HackerU college**
-![](https://komarev.com/ghpvc/?username=shahafrseza&color=green)
+<br>
 
 ### :file_folder: Languages & Tools im using:
 <div>
@@ -18,6 +18,7 @@
   <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'> 
 </div>
 
+
 ### :phone: Connect with me 
 
 <div>
@@ -33,5 +34,7 @@
 </div>
 
 
-### :phone: Some Stats
+### :hammer_and_wrench:	 Some Stats
+![](https://komarev.com/ghpvc/?username=shahafrseza&color=green)
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahafrseza&layout=compact"/>
