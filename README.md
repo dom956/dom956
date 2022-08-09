@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 my name is Shahaf Seza and I'm a Full-Stack Web Development student at HackerU college
 
-## Languages & Tools im using:
+### Languages & Tools im using:
 <div>
   <img src="https://i.ibb.co/Fh765MP/html5.png" width='50'>
   <img src="https://i.ibb.co/cNBjXM9/css3.png" width='50'>
@@ -17,16 +17,18 @@ my name is Shahaf Seza and I'm a Full-Stack Web Development student at HackerU c
   <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'> 
 </div>
 
-## Contact with me 
+### Contact with me 
 
-[<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/shahafseza/)
+<a href="https://www.linkedin.com/in/shahafseza/" target="_blank">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
+</a>
 
 <a href="https://www.facebook.com/ShahafSeza" target="_blank">
-    <img height="50" src="https://www.botanic.co.il/wp-content/uploads/2021/05/facebook-icon-logo-C61047A9E7-seeklogo.com_.png"/>
+    <img height="40" src="https://www.botanic.co.il/wp-content/uploads/2021/05/facebook-icon-logo-C61047A9E7-seeklogo.com_.png"/>
 </a>
 
 <a href="https://www.instagram.com/shahafseza" target="_blank">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
 </a>
 
 
