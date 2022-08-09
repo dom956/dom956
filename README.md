@@ -19,15 +19,15 @@ my name is Shahaf Seza and I'm a Full-Stack Web Development student at HackerU c
 
 ## Contact with me 
 
-<a href="https://www.linkedin.com/shahafseza/">
+<a href="https://www.linkedin.com/shahafseza/" target="_blank">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
 </a>
 
-<a href="https://www.facebook.com/ShahafSeza">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+<a href="https://www.facebook.com/ShahafSeza" target="_blank">
+    <img height="50" src="https://www.botanic.co.il/wp-content/uploads/2021/05/facebook-icon-logo-C61047A9E7-seeklogo.com_.png"/>
 </a>
 
-<a href="https://www.instagram.com/shahafseza">
+<a href="https://www.instagram.com/shahafseza" target="_blank">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
 </a>
 
