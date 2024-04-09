@@ -1,5 +1,5 @@
 ## :wave:	 Hi, I'm Osher Volotker 
-**I'm a Indie Game Developer, Web Developer, and a Writer**
+**I'm an Indie Game Developer, Web Developer, and a Writer**
 <br>
 
 ### :file_folder: Languages & Tools im using:
@@ -14,6 +14,7 @@
   <img src="https://i.ibb.co/wQY24zN/typescript.png" width='50'>
   <img src="https://i.ibb.co/h1Yx5Nn/angular.png" width='50'>
   <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'> 
+   <img src="https://i.ibb.co/bPtFR0R/Csharp.png" width='50'> 
 </div>
 
 
