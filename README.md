@@ -4,7 +4,7 @@
 
 ### :file_folder: Languages & Tools im using:
 <div>
-<img src="https://i.ibb.co/TPjXLRy/unity.png" alt="unity" width="50">
+<img src="https://i.ibb.co/TPjXLRy/unity.png" alt="unity" width="50" height="50">
 <img src="https://i.ibb.co/fvShLtC/C.jpg" alt="C" width="50">
 <img src="https://i.ibb.co/BjRpg26/react.jpg" alt="react" width="50">
 <img src="https://i.ibb.co/wrm8NwP/mysql.png" alt="mysql" width="50">
