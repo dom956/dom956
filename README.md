@@ -2,7 +2,7 @@
 **I'm an Indie Game Developer, Web Developer, and a Writer**
 <br>
 
-### :file_folder: Languages & Tools im using:
+### :file_folder: Languages, Engines & Tools im using:
 <div>
 <img src="https://i.ibb.co/TPjXLRy/unity.png" alt="unity" width="50" height="50">
 <img src="https://i.ibb.co/fvShLtC/C.jpg" alt="C" width="50" height="50">
