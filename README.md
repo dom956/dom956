@@ -19,7 +19,7 @@
 </div>
 
 
-### :hammer_and_wrench:	 Some Stats
+### :hammer_and_wrench:	 Stats
 ![](https://komarev.com/ghpvc/?username=dom956&color=green)
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dom956&layout=compact"/>
