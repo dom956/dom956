@@ -14,7 +14,7 @@
   <img src="https://i.ibb.co/wQY24zN/typescript.png" width='50'>
   <img src="https://i.ibb.co/h1Yx5Nn/angular.png" width='50'>
   <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'> 
-   <img src="https://i.ibb.co/bPtFR0R/C-sharp.png" width='50'> 
+  <img src="https://i.ibb.co/bPtFR0R/C-sharp.png" alt="C#" width="50">
 </div>
 
 
