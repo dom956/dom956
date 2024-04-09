@@ -14,7 +14,7 @@
   <img src="https://i.ibb.co/wQY24zN/typescript.png" width='50'>
   <img src="https://i.ibb.co/h1Yx5Nn/[angular.png](https://brandslogos.com/wp-content/uploads/thumbs/angular-icon-logo-vector.svg)" width='50'>
   <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'>
-  
+  ![C# Icon](https://www.freeiconspng.com/uploads/c-logo-icon-18.png)
   
 </div>
 
