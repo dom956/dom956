@@ -4,17 +4,17 @@
 
 ### :file_folder: Languages & Tools im using:
 <div>
-  <img src="https://i.ibb.co/Fh765MP/html5.png" width='50'>
-  <img src="https://i.ibb.co/cNBjXM9/css3.png" width='50'>
-  <img src="https://i.ibb.co/M1rrKMf/javascript.png" width='50'>
-  <img src="https://i.ibb.co/rk3fgDg/bootstrap-plain-wordmark-logo-icon-146620.png" width='50'>
-  <img src="https://i.ibb.co/dJcSmx8/node.png" width='50'>
-  <img src="https://i.ibb.co/yS4F2Vc/Mongo.png" width='50'>
-  <img src="https://i.ibb.co/98HbrYy/sql.png" width='50'>
-  <img src="https://i.ibb.co/wQY24zN/typescript.png" width='50'>
-  <img src="https://i.ibb.co/h1Yx5Nn/[angular.png](https://brandslogos.com/wp-content/uploads/thumbs/angular-icon-logo-vector.svg)" width='50'>
-  <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'>
-  <img src="[C-sharp.jpg](https://icon2.cleanpng.com/20180324/dsq/kisspng-the-c-programming-language-internet-explorer-5ab6f84dd88db8.953434381521940557887.jpg)](https://www.freeiconspng.com/uploads/c-logo-icon-18.png)" width="50">
+<img src="https://i.ibb.co/TPjXLRy/unity.png" alt="unity" border="0">
+<img src="https://i.ibb.co/fvShLtC/C.jpg" alt="C" border="0">
+<img src="https://i.ibb.co/BjRpg26/react.jpg" alt="react" border="0">
+<img src="https://i.ibb.co/6RrqFVv/angular.png" alt="angular" border="0">
+<img src="https://i.ibb.co/wrm8NwP/mysql.png" alt="mysql" border="0">
+<img src="https://i.ibb.co/p4t3Y0z/mongodb.png" alt="mongodb" border="0">
+<img src="https://i.ibb.co/0tqtVYv/boostrap.png" alt="boostrap" border="0">
+<img src="https://i.ibb.co/kSTDkL7/css.jpg" alt="css" border="0">
+<img src="https://i.ibb.co/25yVT5G/html.png" alt="html" border="0">
+<img src="https://i.ibb.co/VSysW28/javascript.jpg" alt="javascript" border="0">
+<img src="https://i.ibb.co/4Sfxpfq/node.png" alt="node" border="0">
   
 </div>
 
