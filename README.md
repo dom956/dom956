@@ -4,17 +4,17 @@
 
 ### :file_folder: Languages & Tools im using:
 <div>
-[img]https://i.ibb.co/TPjXLRy/unity.png[/img]
-[img]https://i.ibb.co/fvShLtC/C.jpg[/img]
-[img]https://i.ibb.co/BjRpg26/react.jpg[/img]
-[img]https://i.ibb.co/wrm8NwP/mysql.png[/img]
-[img]https://i.ibb.co/6RrqFVv/angular.png[/img]
-[img]https://i.ibb.co/p4t3Y0z/mongodb.png[/img]
-[img]https://i.ibb.co/0tqtVYv/boostrap.png[/img]
-[img]https://i.ibb.co/kSTDkL7/css.jpg[/img]
-[img]https://i.ibb.co/25yVT5G/html.png[/img]
-[img]https://i.ibb.co/VSysW28/javascript.jpg[/img]
-[img]https://i.ibb.co/4Sfxpfq/node.png[/img]
+<img src="https://i.ibb.co/TPjXLRy/unity.png" alt="unity" width="50">
+<img src="https://i.ibb.co/fvShLtC/C.jpg" alt="C" width="50">
+<img src="https://i.ibb.co/BjRpg26/react.jpg" alt="react" width="50">
+<img src="https://i.ibb.co/wrm8NwP/mysql.png" alt="mysql" width="50">
+<img src="https://i.ibb.co/6RrqFVv/angular.png" alt="angular" width="50">
+<img src="https://i.ibb.co/p4t3Y0z/mongodb.png" alt="mongodb" width="50">
+<img src="https://i.ibb.co/0tqtVYv/boostrap.png" alt="boostrap" width="50">
+<img src="https://i.ibb.co/kSTDkL7/css.jpg" alt="css" width="50">
+<img src="https://i.ibb.co/25yVT5G/html.png" alt="html" width="50">
+<img src="https://i.ibb.co/VSysW28/javascript.jpg" alt="javascript" width="50">
+<img src="https://i.ibb.co/4Sfxpfq/node.png" alt="node" width="50">
   
 </div>
 
