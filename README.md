@@ -14,7 +14,7 @@
   <img src="https://i.ibb.co/wQY24zN/typescript.png" width='50'>
   <img src="https://i.ibb.co/h1Yx5Nn/[angular.png](https://brandslogos.com/wp-content/uploads/thumbs/angular-icon-logo-vector.svg)" width='50'>
   <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'>
-  <img src="https://i.ibb.co/bPtFR0R/[C-sharp.png](https://icon2.cleanpng.com/20180324/dsq/kisspng-the-c-programming-language-internet-explorer-5ab6f84dd88db8.953434381521940557887.jpg)" width='50'>
+  <img src="https://i.ibb.co/bPtFR0R/[C-sharp.jpg](https://icon2.cleanpng.com/20180324/dsq/kisspng-the-c-programming-language-internet-explorer-5ab6f84dd88db8.953434381521940557887.jpg)" width='50'>
   
 </div>
 
