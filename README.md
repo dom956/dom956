@@ -12,7 +12,7 @@
 <img src="https://i.ibb.co/kSTDkL7/css.jpg" alt="css" width="50">
 <img src="https://i.ibb.co/25yVT5G/html.png" alt="html" width="50">
 <img src="https://i.ibb.co/VSysW28/javascript.jpg" alt="javascript" width="50">
-<img src="https://i.ibb.co/7jbrDKh/boostrap.png" alt="boostrap" width="50">
+<img src="https://i.ibb.co/qrmrXbj/boostrap.png" alt="boostrap" width="50">
 <img src="https://i.ibb.co/k0LXkkZ/node.jpg" alt="node" width="50">
 <img src="https://i.ibb.co/8jjkVDc/angular.png" alt="angular" width="50">
   
