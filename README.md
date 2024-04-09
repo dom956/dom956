@@ -13,8 +13,9 @@
   <img src="https://i.ibb.co/98HbrYy/sql.png" width='50'>
   <img src="https://i.ibb.co/wQY24zN/typescript.png" width='50'>
   <img src="https://i.ibb.co/h1Yx5Nn/[angular.png](https://brandslogos.com/wp-content/uploads/thumbs/angular-icon-logo-vector.svg)" width='50'>
-  <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'> 
-  <img src="https://i.ibb.co/bPtFR0R/[[C-sharp.png](https://www.freeiconspng.com/uploads/c-logo-icon-18.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOuLzXXn2lcMYjkBGANL6Lg2R3Orx2aDHcilkmvYtv9w&s)" width="50">
+  <img src="https://i.ibb.co/bPtFR0R/react.png" width='50'>
+   <img src="[https://i.ibb.co/bPtFR0R/react.png](https://www.freeiconspng.com/uploads/c-logo-icon-18.png)" width='50'> 
+  
 </div>
 
 
