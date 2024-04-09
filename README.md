@@ -8,7 +8,7 @@
 <img src="https://i.ibb.co/fvShLtC/C.jpg" alt="C" width="50">
 <img src="https://i.ibb.co/BjRpg26/react.jpg" alt="react" width="50">
 <img src="https://i.ibb.co/wrm8NwP/mysql.png" alt="mysql" width="50">
-<img src="https://i.ibb.co/6RrqFVv/angular.png" alt="angular" width="50">
+<img src="https://i.ibb.co/6RrqFVv/angular.png" alt="angular" width="50" height="50">
 <img src="https://i.ibb.co/p4t3Y0z/mongodb.png" alt="mongodb" width="50">
 <img src="https://i.ibb.co/0tqtVYv/boostrap.png" alt="boostrap" width="50">
 <img src="https://i.ibb.co/kSTDkL7/css.jpg" alt="css" width="50">
