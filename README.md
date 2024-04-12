@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dom956&label=Profile%20views&color=0e75b6&style=flat" alt="dom956" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dom956" alt="dom956" /></a> </p>
+<p align="left"> <img href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dom956" alt="dom956" /></img> </p>
 
 ### :file_folder: Languages:
 <div>
@@ -27,6 +27,7 @@
   <img src="https://i.ibb.co/BjRpg26/react.jpg" alt="react" width="50" height="50">
   <img src="https://i.ibb.co/8jjkVDc/angular.png" alt="angular" width="50" height="50">
 </div>
+<br> <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dom956&show_icons=true&locale=en&layout=compact" alt="dom956" /></p>
 
