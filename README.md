@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osher Volotker</h1>
-<h3 align="center">A Game Developer, Web Developer, and a Writer</h3>
+<h3 align="center">An Indie Game Developer, Web Developer, and a Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dom956&label=Profile%20views&color=0e75b6&style=flat" alt="dom956" /> </p>
 
