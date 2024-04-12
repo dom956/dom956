@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dom956&label=Profile%20views&color=0e75b6&style=flat" alt="dom956" /> </p>
 
-<p align="left"> <img href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dom956" alt="dom956" /></img> </p>
+<p align="left"> href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dom956" alt="dom956" /> </p>
 
 ### :file_folder: Languages:
 <div>
