@@ -1,4 +1,4 @@
-<div style="background-color: green; padding: 20px;">
+<div style="background-color: green;">
 <h1 align="center">Hi 👋, I'm osher volotker</h1>
 <h3 align="center">A Game Developer, Web Developer, and a Writer</h3>
 
