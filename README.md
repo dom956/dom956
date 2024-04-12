@@ -1,4 +1,3 @@
-<div style="background-color: green;">
 <h1 align="center">Hi 👋, I'm osher volotker</h1>
 <h3 align="center">A Game Developer, Web Developer, and a Writer</h3>
 
@@ -16,6 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dom956&show_icons=true&locale=en&layout=compact" alt="dom956" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dom956&show_icons=true&locale=en" alt="dom956" /></p>
-</div>
+
 
 
