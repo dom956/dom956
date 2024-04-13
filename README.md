@@ -33,7 +33,7 @@
 </div>
 <br> <br/>
 
-### 🛠️: Stats
+### 🛠️: Stats:
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dom956&show_icons=true&locale=en&layout=compact" alt="dom956" />
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=dom956&show_icons=true&locale=en" alt="dom956" />
