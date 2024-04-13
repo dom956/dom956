@@ -22,7 +22,7 @@
   <img src="https://i.ibb.co/TPjXLRy/unity.png" alt="unity" width="50" height="50">
 </div>
 
-### :wrench: Tools:
+### :wrench Tools:
 <div>
   <img src="https://i.ibb.co/wrm8NwP/mysql.png" alt="mysql" width="50" height="50">
   <img src="https://i.ibb.co/p4t3Y0z/mongodb.png" alt="mongodb" width="50" height="50">
