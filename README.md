@@ -17,12 +17,12 @@
 <img src="https://i.ibb.co/VSysW28/javascript.jpg" alt="javascript" width="50" height="50">
 </div>
 
-### :gear: Game Engines
+### ⚙️ Game Engines:
 <div>
   <img src="https://i.ibb.co/TPjXLRy/unity.png" alt="unity" width="50" height="50">
 </div>
 
-### :wrench Tools:
+### 🔧 Tools:
 <div>
   <img src="https://i.ibb.co/wrm8NwP/mysql.png" alt="mysql" width="50" height="50">
   <img src="https://i.ibb.co/p4t3Y0z/mongodb.png" alt="mongodb" width="50" height="50">
@@ -33,7 +33,7 @@
 </div>
 <br> <br/>
 
-### 🛠️: Stats:
+### 🛠️ Stats:
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dom956&show_icons=true&locale=en&layout=compact" alt="dom956" />
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=dom956&show_icons=true&locale=en" alt="dom956" />
