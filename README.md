@@ -25,7 +25,7 @@
 ### 🔧 Tools:
 <div>
   <img src="https://i.ibb.co/wrm8NwP/mysql.png" alt="mysql" width="50" height="50">
-  <img src="https://i.ibb.co/p4t3Y0z/mongodb.png" alt="mongodb" width="50" height="50">
+  <img src="https://i.ibb.co/3cRj8Dv/mongodb-logo.png" alt="mongodb-logo" width="50" height="50">
   <img src="https://i.ibb.co/qrmrXbj/boostrap.png" alt="boostrap" width="50" height="50">
   <img src="https://i.ibb.co/k0LXkkZ/node.jpg" alt="node" width="50" height="50">
   <img src="https://i.ibb.co/BjRpg26/react.jpg" alt="react" width="50" height="50">
