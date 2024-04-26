@@ -28,7 +28,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dom956&theme=default&hide_border=false" alt="GitHub Streak" aling="center" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true" aling="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 
 
