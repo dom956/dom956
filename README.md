@@ -51,7 +51,7 @@
 </div>
 
 
-![Server](https://img.shields.io/badge/Server-%23000000.svg?style=for-the-badge&logo=server&logoColor=white)
+<img src="https://img.shields.io/badge/Server-%23000000.svg?style=for-the-badge&logo=server&logoColor=white">
 
 
 
