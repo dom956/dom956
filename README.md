@@ -26,7 +26,7 @@
 
 # 📊 GitHub Stats:
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dom956&theme=default&hide_border=false)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left">
