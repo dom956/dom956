@@ -29,7 +29,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dom956&theme=default&hide_border=false" alt="GitHub Streak"/>
 
 <div style="display: inline-block;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" aling="left" height="100">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" aling="left" height="180">
  <img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 
