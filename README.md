@@ -26,8 +26,10 @@
 
 
 # 📊 GitHub Stats:
-<div style="display: inline-block">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dom956&theme=default&hide_border=false" alt="GitHub Streak"/>
+<div style="display: flex; justify-content: center;">
+    <div style="display: inline-block;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dom956&theme=default&hide_border=false" alt="GitHub Streak">
+    </div>
 </div>
 
 
