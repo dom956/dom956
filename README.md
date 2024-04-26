@@ -5,7 +5,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=dom956&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ##📂 Languages: 
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
