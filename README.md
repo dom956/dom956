@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osher Volotker</h1>
 <h3 align="center">An Indie Game Developer, Web Developer, and a Writer</h3>
 
-## 🏆 GitHub Trophies:
+## 🏆 Github Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=dom956&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ##📂 Languages: 
@@ -33,7 +33,21 @@
  <img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 
-![Server](https://img.shields.io/badge/Server-000000?style=for-the-badge&logo=server&logoColor=white)
+<div align="center">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
 
 
 
