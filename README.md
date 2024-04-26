@@ -1,43 +1,37 @@
 <h1 align="center">Hi 👋, I'm Osher Volotker</h1>
 <h3 align="center">An Indie Game Developer, Web Developer, and a Writer</h3>
 
-<p align="left">
-  <a href="https://komarev.com/ghpvc/?username=dom956&label=Profile%20views&color=0e75b6&style=flat" alt="dom956"></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dom956&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=dom956" alt="dom956" />
-</a>
+# Folder: Languages: 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ 
+#  Web Frameworks and Libraries:
+ ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### :file_folder: Languages:
-<div>
-<img src="https://i.ibb.co/fvShLtC/C.jpg" alt="C" width="50" height="50">
-<img src="https://i.ibb.co/kSTDkL7/css.jpg" alt="css" width="50" height="50">
-<img src="https://i.ibb.co/25yVT5G/html.png" alt="html" width="50" height="50">
-<img src="https://i.ibb.co/VSysW28/javascript.jpg" alt="javascript" width="50" height="50">
-</div>
+  # Backend and Database:
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ⚙️ Game Engines:
-<div>
-  <img src="https://i.ibb.co/TPjXLRy/unity.png" alt="unity" width="50" height="50">
-</div>
+# Content Management Systems (CMS):
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### 🔧 Tools:
-<div>
-  <img src="https://i.ibb.co/wrm8NwP/mysql.png" alt="mysql" width="50" height="50">
-  <img src="https://i.ibb.co/3cRj8Dv/mongodb-logo.png" alt="mongodb-logo" width="50" height="50">
-  <img src="https://i.ibb.co/qrmrXbj/boostrap.png" alt="boostrap" width="50" height="50">
-  <img src="https://i.ibb.co/k0LXkkZ/node.jpg" alt="node" width="50" height="50">
-  <img src="https://i.ibb.co/BjRpg26/react.jpg" alt="react" width="50" height="50">
-  <img src="https://i.ibb.co/8jjkVDc/angular.png" alt="angular" width="50" height="50">
-</div>
-<br> <br/>
+# Design and Art Tools:
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-### 🛠️ Stats:
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dom956&show_icons=true&locale=en&layout=compact" alt="dom956 languages" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dom956&include_all_commits=true&theme=aura" alt="Dom's GitHub stats">
-</div>
+# Game Engines:
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dom956&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
 
 
 
