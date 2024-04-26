@@ -35,8 +35,8 @@
 
 ### 🛠️ Stats:
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dom956&show_icons=true&locale=en&layout=compact" alt="dom956" />
-    
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dom956&show_icons=true&locale=en&layout=compact" alt="dom956 languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dom956&include_all_commits=true&theme=aura" alt="Dom's GitHub stats">
 </div>
 
 
