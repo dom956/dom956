@@ -21,7 +21,8 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 # Game Engines:
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=black&color=white)
+
 
 
 # 📊 GitHub Stats:
@@ -29,8 +30,7 @@
 
 <div style="display: inline-block;">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" aling="left">
- <div style="display: inline-block;"></div>
-<img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 
 
