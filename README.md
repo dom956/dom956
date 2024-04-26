@@ -26,7 +26,7 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dom956&theme=default&hide_border=false" alt="GitHub Streak"/>
-<div style="display: inline-block; margin-left: 20px;">
+<div style="display: inline-block; margin-right: 20px;">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" aling="left">
 <img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
