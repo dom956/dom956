@@ -42,6 +42,7 @@
 ## ⚙️ Game Engines:
 <div align="left">
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=black&color=white" alt="Unity">
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Engine">
 </div>
 
 ## 📊 GitHub Stats:
