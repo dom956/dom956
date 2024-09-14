@@ -50,7 +50,7 @@
 
 <div style="display: inline-block;">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&langs_count=100&theme=default&hide_border=false&include_all_commits=true&count_private=true)
- <img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" height="195">
+ 
 </div>
 
 
