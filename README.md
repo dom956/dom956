@@ -52,4 +52,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=default&hide_border=false&include_all_commits=true&count_private=true&token=YOUR_GITHUB_PAT" alt="Top Languages" width="50%" height="195">
 </div>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&layout=compact&theme=default&hide_border=false&include_all_commits=true&count_private=true&access_token=YOUR_GITHUB_PAT)
 
