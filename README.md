@@ -50,7 +50,7 @@
 
 
 <div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&layout=compact&hide=shaderlab,batchfile,shell,python,java,objective-c,rust,go,dart,php,ruby,kotlin,swift,hlsl&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="50%" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom956&layout=compact&hide=html,shaderlab,batchfile,shell,python,java,objective-c,rust,go,dart,php,ruby,kotlin,swift,hlsl&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="50%" height="195">
   <img src="https://github-readme-stats.vercel.app/api?username=dom956&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" height="195">
 </div>
 
